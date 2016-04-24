@@ -1,0 +1,28 @@
+name: Apologetic Videos
+favicon: null
+layout_spectrum: 0.7612377847544849
+typography_spectrum: 0.16113747260533273
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.434048087336123
+  lightness: 0.7180152083747089
+  saturation: 0.7012177354190499
+  rhythmicContrast: 0.15178096597082913
+purpose: []
