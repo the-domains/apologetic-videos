@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Apologetic Videos]]></title>
         <description><![CDATA[Apologetic Videos]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/apologetic-videos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 00:24:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Apr 2016 00:25:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/apologetic-videos/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Kalam Cosmological Argument]]></title>
             <description><![CDATA[<article><h1>The Kalam Cosmological Argument</h1><p>The Kalam Cosmological Argument for the Existence of God</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/767a042214c5bed4c44a80b233ea0abde97b55b2.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=6CulBuMCLg0</link>
             <guid isPermaLink="false">75ed9196-ed43-4aaa-94be-2d290b01dc12</guid>
-            <pubDate>Mon, 25 Apr 2016 00:24:11 GMT</pubDate>
+            <pubDate>Mon, 25 Apr 2016 00:24:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
