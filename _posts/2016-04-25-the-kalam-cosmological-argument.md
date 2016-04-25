@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://www.youtube.com/watch?v=6CulBuMCLg0'
 inLanguage: null
 keywords: []
 description: The Kalam Cosmological Argument for the Existence of God
-datePublished: '2016-04-25T00:24:11.963Z'
-dateModified: '2016-04-25T00:24:09.294Z'
+datePublished: '2016-04-25T00:24:59.720Z'
+dateModified: '2016-04-25T00:24:56.390Z'
 author:
   - name: drcraigvideos
     url: 'https://www.youtube.com/user/drcraigvideos'
@@ -15,6 +15,8 @@ author:
 related: []
 app_links: []
 title: The Kalam Cosmological Argument
+sourcePath: _posts/2016-04-25-the-kalam-cosmological-argument.md
+published: true
 authors: []
 publisher:
   name: YouTube
@@ -22,8 +24,6 @@ publisher:
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
 starred: false
-sourcePath: _posts/2016-04-25-the-kalam-cosmological-argument.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
