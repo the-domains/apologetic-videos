@@ -1,19 +1,4 @@
-name: Apologetic Videos
-favicon: null
-layout_spectrum: 0.2332
 typography_spectrum: 0.16113747260533273
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#FF6700'
@@ -25,4 +10,23 @@ color:
   lightness: 0.7180152083747089
   saturation: 0.7012177354190499
   rhythmicContrast: 0.15178096597082913
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.2332
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Apologetic Videos
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Leibniz' Contingency Argument
+    id: aa62b484-f6b5-416e-9530-9d830ccfa09a
+    type: content
+favicon: null
 purpose: []
