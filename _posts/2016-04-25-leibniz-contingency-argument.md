@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://www.youtube.com/watch?v=FPCzEP0oD7I'
 inLanguage: en
 keywords:
   - duration
@@ -16,8 +15,8 @@ keywords:
   - william
   - explanation
 description: The Contingency Argument
-datePublished: '2016-04-25T00:35:49.564Z'
-dateModified: '2016-04-25T00:35:35.288Z'
+datePublished: '2016-08-23T15:19:59.657Z'
+dateModified: '2016-08-23T15:19:59.416Z'
 author:
   - name: drcraigvideos
     url: 'https://www.youtube.com/user/drcraigvideos'
@@ -60,16 +59,17 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-title: "Leibniz' Contingency Argument"
+title: Leibniz' Contingency Argument
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-starred: false
 sourcePath: _posts/2016-04-25-leibniz-contingency-argument.md
-published: true
+via: {}
+starred: false
+url: leibniz-contingency-argument/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
